@@ -1,5 +1,5 @@
 # hello-world
 Hi Humans!
 
-Hubot here, I like node.js and coffeescript
-tacos and more taco
+Miguels here, I like node.js and coffeescript
+tacos and more taco from taco bell.
